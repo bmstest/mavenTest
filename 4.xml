@@ -1,0 +1,326 @@
+
+<curassetimp_cd>
+	<court_id>CASB</court_id>
+	<courtcase_no>12-13276-LT7</courtcase_no>
+	<case_no />
+	<case_name>Jaena U Lumagui</case_name>
+	<key>X3MA10V342</key>
+	<source />
+	<received />
+	<imported />
+	<deleted>false</deleted>
+	<message />
+	<changes />
+	<ecf_pk>0</ecf_pk>
+	<amended>true</amended>
+	<ecfdocnum>9</ecfdocnum>
+	<ecf_pet_pk>0</ecf_pet_pk>
+	<filingdate />
+	<schedule>C</schedule>
+	<seq_no>1</seq_no>
+	<descr_col1>cash on hand, less than</descr_col1>
+	<descr_col2>CCP § 704.070</descr_col2>
+	<amount_col1>100.00</amount_col1>
+	<amount_col2>100.00</amount_col2>
+	<ownertype />
+	<relatedkey>X3MA10UTQ1</relatedkey>
+	<account_no />
+	<name />
+	<addr1 />
+	<addr2 />
+	<city />
+	<state />
+	<zip />
+	<ignore>false</ignore>
+	<descrorig />
+	<amountorig>0.00</amountorig>
+	<pet_unknorig>false</pet_unknorig>
+	<lienamountorig>0.00</lienamountorig>
+	<ledcatcodeorig />
+	<amount_string_1st>100.00</amount_string_1st>
+	<amount_string_2nd>100.00</amount_string_2nd>
+	<amount_string />
+</curassetimp_cd>
+<curassetimp_cd>
+	<court_id>CASB</court_id>
+	<courtcase_no>12-13276-LT7</courtcase_no>
+	<case_no />
+	<case_name>Jaena U Lumagui</case_name>
+	<key>X3MA10V343</key>
+	<source />
+	<received />
+	<imported />
+	<deleted>false</deleted>
+	<message />
+	<changes />
+	<ecf_pk>0</ecf_pk>
+	<amended>true</amended>
+	<ecfdocnum>9</ecfdocnum>
+	<ecf_pet_pk>0</ecf_pet_pk>
+	<filingdate />
+	<schedule>C</schedule>
+	<seq_no>2</seq_no>
+	<descr_col1>SDCCU. balance on hand less than</descr_col1>
+	<descr_col2>CCP § 704.070</descr_col2>
+	<amount_col1>100.00</amount_col1>
+	<amount_col2>100.00</amount_col2>
+	<ownertype />
+	<relatedkey>X3MA10UTQ2</relatedkey>
+	<account_no />
+	<name />
+	<addr1 />
+	<addr2 />
+	<city />
+	<state />
+	<zip />
+	<ignore>false</ignore>
+	<descrorig />
+	<amountorig>0.00</amountorig>
+	<pet_unknorig>false</pet_unknorig>
+	<lienamountorig>0.00</lienamountorig>
+	<ledcatcodeorig />
+	<amount_string_1st>100.00</amount_string_1st>
+	<amount_string_2nd>100.00</amount_string_2nd>
+	<amount_string />
+</curassetimp_cd>
+<curassetimp_cd>
+	<court_id>CASB</court_id>
+	<courtcase_no>12-13276-LT7</courtcase_no>
+	<case_no />
+	<case_name>Jaena U Lumagui</case_name>
+	<key>X3MA10V344</key>
+	<source />
+	<received />
+	<imported />
+	<deleted>false</deleted>
+	<message />
+	<changes />
+	<ecf_pk>0</ecf_pk>
+	<amended>true</amended>
+	<ecfdocnum>9</ecfdocnum>
+	<ecf_pet_pk>0</ecf_pet_pk>
+	<filingdate />
+	<schedule>C</schedule>
+	<seq_no>3</seq_no>
+	<descr_col1>clothing</descr_col1>
+	<descr_col2>CCP §
+		704.020
+	</descr_col2>
+	<amount_col1>300.00</amount_col1>
+	<amount_col2>300.00</amount_col2>
+	<ownertype />
+	<relatedkey>X3MA10UTQ5</relatedkey>
+	<account_no />
+	<name />
+	<addr1 />
+	<addr2 />
+	<city />
+	<state />
+	<zip />
+	<ignore>false</ignore>
+	<descrorig />
+	<amountorig>0.00</amountorig>
+	<pet_unknorig>false</pet_unknorig>
+	<lienamountorig>0.00</lienamountorig>
+	<ledcatcodeorig />
+	<amount_string_1st>300.00</amount_string_1st>
+	<amount_string_2nd>300.00</amount_string_2nd>
+	<amount_string />
+</curassetimp_cd>
+<curassetimp_cd>
+	<court_id>CASB</court_id>
+	<courtcase_no>12-13276-LT7</courtcase_no>
+	<case_no />
+	<case_name>Jaena U Lumagui</case_name>
+	<key>X3MA10V345</key>
+	<source />
+	<received />
+	<imported />
+	<deleted>false</deleted>
+	<message />
+	<changes />
+	<ecf_pk>0</ecf_pk>
+	<amended>true</amended>
+	<ecfdocnum>9</ecfdocnum>
+	<ecf_pet_pk>0</ecf_pet_pk>
+	<filingdate />
+	<schedule>C</schedule>
+	<seq_no>4</seq_no>
+	<descr_col1>jewelry</descr_col1>
+	<descr_col2>CCP §
+		704.040
+	</descr_col2>
+	<amount_col1>1000.00</amount_col1>
+	<amount_col2>1000.00</amount_col2>
+	<ownertype />
+	<relatedkey>X3MA10UTQ6</relatedkey>
+	<account_no />
+	<name />
+	<addr1 />
+	<addr2 />
+	<city />
+	<state />
+	<zip />
+	<ignore>false</ignore>
+	<descrorig />
+	<amountorig>0.00</amountorig>
+	<pet_unknorig>false</pet_unknorig>
+	<lienamountorig>0.00</lienamountorig>
+	<ledcatcodeorig />
+	<amount_string_1st>1000.00</amount_string_1st>
+	<amount_string_2nd>1000.00</amount_string_2nd>
+	<amount_string />
+</curassetimp_cd>
+<curassetimp_cd>
+	<court_id>CASB</court_id>
+	<courtcase_no>12-13276-LT7</courtcase_no>
+	<case_no />
+	<case_name>Jaena U Lumagui</case_name>
+	<key>X3MA10V346</key>
+	<source />
+	<received />
+	<imported />
+	<deleted>false</deleted>
+	<message />
+	<changes />
+	<ecf_pk>0</ecf_pk>
+	<amended>true</amended>
+	<ecfdocnum>9</ecfdocnum>
+	<ecf_pet_pk>0</ecf_pet_pk>
+	<filingdate />
+	<schedule>C</schedule>
+	<seq_no>5</seq_no>
+	<descr_col1>limit</descr_col1>
+	<descr_col2>CCP §
+		704e insurance - no present value CCP §704.100 exempt
+		to
+	</descr_col2>
+	<amount_col1>0.00</amount_col1>
+	<amount_col2>0.00</amount_col2>
+	<ownertype />
+	<relatedkey />
+	<account_no />
+	<name />
+	<addr1 />
+	<addr2 />
+	<city />
+	<state />
+	<zip />
+	<ignore>false</ignore>
+	<descrorig />
+	<amountorig>0.00</amountorig>
+	<pet_unknorig>false</pet_unknorig>
+	<lienamountorig>0.00</lienamountorig>
+	<ledcatcodeorig />
+	<amount_string_1st>0.00</amount_string_1st>
+	<amount_string_2nd />
+	<amount_string />
+</curassetimp_cd>
+<curassetimp_cd>
+	<court_id>CASB</court_id>
+	<courtcase_no>12-13276-LT7</courtcase_no>
+	<case_no />
+	<case_name>Jaena U Lumagui</case_name>
+	<key>X3MA10V347</key>
+	<source />
+	<received />
+	<imported />
+	<deleted>false</deleted>
+	<message />
+	<changes />
+	<ecf_pk>0</ecf_pk>
+	<amended>true</amended>
+	<ecfdocnum>9</ecfdocnum>
+	<ecf_pet_pk>0</ecf_pet_pk>
+	<filingdate />
+	<schedule>C</schedule>
+	<seq_no>6</seq_no>
+	<descr_col1>limit</descr_col1>
+	<descr_col2>CCP §
+		704ican Funds CCP§ 704.115
+	</descr_col2>
+	<amount_col1>16875.00</amount_col1>
+	<amount_col2>16875.00</amount_col2>
+	<ownertype />
+	<relatedkey>X3MA10UTQ8</relatedkey>
+	<account_no />
+	<name />
+	<addr1 />
+	<addr2 />
+	<city />
+	<state />
+	<zip />
+	<ignore>false</ignore>
+	<descrorig />
+	<amountorig>0.00</amountorig>
+	<pet_unknorig>false</pet_unknorig>
+	<lienamountorig>0.00</lienamountorig>
+	<ledcatcodeorig />
+	<amount_string_1st>16875.00</amount_string_1st>
+	<amount_string_2nd>16875.00</amount_string_2nd>
+	<amount_string />
+</curassetimp_cd>
+<curassetimp_cd>
+	<court_id>CASB</court_id>
+	<courtcase_no>12-13276-LT7</courtcase_no>
+	<case_no />
+	<case_name>Jaena U Lumagui</case_name>
+	<key>X3MA10V348</key>
+	<source />
+	<received />
+	<imported />
+	<deleted>false</deleted>
+	<message />
+	<changes />
+	<ecf_pk>0</ecf_pk>
+	<amended>true</amended>
+	<ecfdocnum>9</ecfdocnum>
+	<ecf_pet_pk>0</ecf_pet_pk>
+	<filingdate />
+	<schedule>C</schedule>
+	<seq_no>7</seq_no>
+	<descr_col1>Total exemptions claimed: 167.260.00 ^C fi ]\\0u^\
+		CetfcieJ ¥* *Amount subject to adjustment on 4/1/13 and every three
+		years thereafter withrespect to cases commenced on or after the date
+		ofadjustment. in re Jaena U. Lumagui Case No. 12-13276-7 Provide the
+		information requested concerning any person or entity, other than a
+		spouse in a joint case, that is also liable on any debts listed by
+		debtor in the schedules ofcrcditors. Include all guarantors and
+		co-signers. If the debtor resides or resided in a community property
+		state, commonwealth, or territory (including Alaska. Arizona,
+		California. Idaho. Louisiana. Nevada, New Mexico, Puerto Rico. Texas.
+		Washington, or Wisconsin) within the eight year period immediately
+		preceding the commencement of the case, identify the name of the
+		debtor's spouse and of any former spouse who resides or resided with
+		the debtor in the community property state, commonwealth, or
+		territory. Include all names used by the nondebtor spouse during the
+		eight years immediately preceding the commencement ofthis case. If a
+		minor child is a codebtor or a creditor, state the child's initials
+		and the name and address ofthe child's
+	</descr_col1>
+	<descr_col2>CCP § 704ucts retirement CCP §704.115 -%-
+		630.00
+	</descr_col2>
+	<amount_col1>630.00</amount_col1>
+	<amount_col2>0.00</amount_col2>
+	<ownertype />
+	<relatedkey />
+	<account_no />
+	<name />
+	<addr1 />
+	<addr2 />
+	<city />
+	<state />
+	<zip />
+	<ignore>false</ignore>
+	<descrorig />
+	<amountorig>0.00</amountorig>
+	<pet_unknorig>false</pet_unknorig>
+	<lienamountorig>0.00</lienamountorig>
+	<ledcatcodeorig />
+	<amount_string_1st>630.00</amount_string_1st>
+	<amount_string_2nd />
+	<amount_string />
+</curassetimp_cd>
+</VFPData>
+	
